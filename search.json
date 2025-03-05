@@ -4,7 +4,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Add contact button"
+    "text": "📩 Contact Us"
   },
   {
     "objectID": "events.html",
@@ -25,20 +25,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "We develop and apply data science methods to data arising from digital technologies including smartphones, wearable devices, and other sensors"
   },
   {
-    "objectID": "about.html#join-our-mailing-list",
-    "href": "about.html#join-our-mailing-list",
+    "objectID": "about.html#leadership",
+    "href": "about.html#leadership",
     "title": "About",
-    "section": "Join Our Mailing List",
-    "text": "Join Our Mailing List\n\n      \n  \n\n    \n        Subscribe\n            * indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
+    "section": "Leadership",
+    "text": "Leadership\nlibrary(knitr) data <- data.frame( Name = c(“Alice Doe”, “Bob Smith”, “Carol Lee”), Role = c(“Data Scientist”, “ML Engineer”, “Researcher”), Contact = c(“alice@example.com”, “bob@example.com”, “carol@example.com”) ) kable(data, format = “html”, table.attr=“class=‘table table-striped’”)"
   },
   {
     "objectID": "involvement.html",
     "href": "involvement.html",
     "title": "Involvement",
     "section": "",
-    "text": "How to get involved"
+    "text": "* indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
   }
 ]
