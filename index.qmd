@@ -1,3 +1,12 @@
 ---
-title: "Mobile & Wearable Data Science"
+title: ""
 ---
+
+## Welcome! 
+Welcome to the Mobile and Wearable Data Science ASA Interest Group! 
+
+```{=html}
+<div style="text-align: left;">
+  <img src="images/logo.png" alt="Site Logo" width="200">
+</div>
+```

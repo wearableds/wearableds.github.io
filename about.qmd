@@ -9,10 +9,13 @@ We develop and apply data science methods to data arising from digital technolog
 ## Leadership 
 
 ```{r}
+#| echo: false
 library(knitr)
 data <- data.frame(
   Name = c("Alice Doe", "Bob Smith", "Carol Lee"),
   Role = c("Data Scientist", "ML Engineer", "Researcher"),
   Contact = c("alice@example.com", "bob@example.com", "carol@example.com")
 )
-kable(data, format = "html", table.attr="class='table table-striped'")
+# kable(data, format = "html", table.attr="class='table table-striped'")
+kable(data)
+```

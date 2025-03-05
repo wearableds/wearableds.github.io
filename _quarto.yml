@@ -4,8 +4,10 @@ project:
 
 website:
   title: "Mobile and Wearable Data Science"
+  favicon: images/favicon.ico
   site-url: "https://wearableds.github.io"
   navbar:
+    logo: images/logo.png
     left:
       - href: index.qmd
         text: Home
