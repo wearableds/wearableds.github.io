@@ -2,7 +2,7 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Mobile and Wearable Data Science",
     "section": "",
     "text": "📩 Contact Us"
   },
@@ -12,6 +12,13 @@
     "title": "Events",
     "section": "",
     "text": "Upcoming events…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mobile and Wearable Data Science",
+    "section": "",
+    "text": "Welcome to the Mobile and Wearable Data Science ASA Interest Group!"
   },
   {
     "objectID": "publications.html",
@@ -32,12 +39,12 @@
     "href": "about.html#leadership",
     "title": "About",
     "section": "Leadership",
-    "text": "Leadership\nlibrary(knitr) data <- data.frame( Name = c(“Alice Doe”, “Bob Smith”, “Carol Lee”), Role = c(“Data Scientist”, “ML Engineer”, “Researcher”), Contact = c(“alice@example.com”, “bob@example.com”, “carol@example.com”) ) # kable(data, format = “html”, table.attr=“class=‘table table-striped’”) kable(data)"
+    "text": "Leadership\n\n\n\n\n\nName\nRole\nContact\n\n\n\n\nAlice Doe\nData Scientist\nalice@example.com\n\n\nBob Smith\nML Engineer\nbob@example.com\n\n\nCarol Lee\nResearcher\ncarol@example.com"
   },
   {
     "objectID": "involvement.html",
     "href": "involvement.html",
-    "title": "Involvement",
+    "title": "Mobile and Wearable Data Science",
     "section": "",
     "text": "* indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
   }
