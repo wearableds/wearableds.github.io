@@ -1,0 +1,26 @@
+project:
+  type: website
+  # output-dir: docs
+
+website:
+  title: "Mobile and Wearable Data Science"
+  site-url: "https://wearableds.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: events.qmd
+        text: Events
+      - href: publications.qmd
+        text: Publications
+      - href: involvement.qmd
+        text: Get Involved
+  page-footer:
+    center: "© 2025 Mobile and Wearable Data Science"
+
+format:
+  html:
+    theme: flatly
+    toc: true
