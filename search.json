@@ -32,7 +32,7 @@
     "href": "about.html#leadership",
     "title": "About",
     "section": "Leadership",
-    "text": "Leadership\nlibrary(knitr) data <- data.frame( Name = c(“Alice Doe”, “Bob Smith”, “Carol Lee”), Role = c(“Data Scientist”, “ML Engineer”, “Researcher”), Contact = c(“alice@example.com”, “bob@example.com”, “carol@example.com”) ) kable(data, format = “html”, table.attr=“class=‘table table-striped’”)"
+    "text": "Leadership\nlibrary(knitr) data <- data.frame( Name = c(“Alice Doe”, “Bob Smith”, “Carol Lee”), Role = c(“Data Scientist”, “ML Engineer”, “Researcher”), Contact = c(“alice@example.com”, “bob@example.com”, “carol@example.com”) ) # kable(data, format = “html”, table.attr=“class=‘table table-striped’”) kable(data)"
   },
   {
     "objectID": "involvement.html",
