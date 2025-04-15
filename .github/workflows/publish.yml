@@ -1,0 +1,29 @@
+name: Publish Quarto site
+
+on:
+  push:
+    branches: main  # Trigger whenever you push changes to the main branch
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to push generated content to gh-pages
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # ensures complete history for publishing
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render Quarto site
+        run: quarto render
+
+      - name: Publish to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _site  # default Quarto output directory
+          publish_branch: gh-pages
