@@ -22,18 +22,14 @@ jobs:
         with:
           r-version: '4.2.0'
 
-      - name: Install R Dependencies
-        uses: r-lib/actions/setup-renv@v2
-        with:
-          cache-version: 1
+#      - name: Install required R packages
+#        run: |
+#        R -e 'install.packages(c("dplyr", "ggplot2", "tidyr"))'  
 
-      - name: Render Quarto site
-        run: quarto render
-
-      - name: Publish to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Render and Publish
+        uses: quarto-dev/quarto-actions/publish@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _site  # default Quarto output directory
-          publish_branch: gh-pages
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
