@@ -4,7 +4,7 @@ title: "About"
 
 ## What we do 
 
-We develop and apply data science methods to data arising from digital technologies including smartphones, wearable devices, and other sensors
+The ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices. 
 
 ## Leadership 
 
@@ -12,9 +12,10 @@ We develop and apply data science methods to data arising from digital technolog
 #| echo: false
 library(knitr)
 data <- data.frame(
-  Name = c("Alice Doe", "Bob Smith", "Carol Lee"),
-  Role = c("Data Scientist", "ML Engineer", "Researcher"),
-  Contact = c("alice@example.com", "bob@example.com", "carol@example.com")
+  Name = c("Julian Wolfson", "Jaroslaw Harezlak", "Vadim Zipunnikov", "Linda Valeri", "Julia Wrobel", "Lily Koffman"),
+  Affiliation = c("University of Minnesota", "Indiana University", "Johns Hopkins University", "Columbia University", "Emory University", "Johns Hopkins University"),
+  Role = c("Chair", "Chair-Elect", "Program Chair", "Program Chair-Elect", "Secretary", "Communications Officer"),
+  Contact = c("julianw@umn.edu", "harezlak@iu.edu", "vadim.zipunnikov@gmail.com", "lv2424@cumc.columbia.edu", "julia.wrobel@emory.edu", "lkoffma2@jhmi.edu")
 )
 # kable(data, format = "html", table.attr="class='table table-striped'")
 kable(data)
