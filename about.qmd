@@ -15,7 +15,7 @@ data <- data.frame(
   Name = c("Julian Wolfson", "Jaroslaw Harezlak", "Vadim Zipunnikov", "Linda Valeri", "Julia Wrobel", "Lily Koffman"),
   Affiliation = c("University of Minnesota", "Indiana University", "Johns Hopkins University", "Columbia University", "Emory University", "Johns Hopkins University"),
   Role = c("Chair", "Chair-Elect", "Program Chair", "Program Chair-Elect", "Secretary", "Communications Officer"),
-  Contact = c("julianw@umn.edu", "harezlak@iu.edu", "vadim.zipunnikov@gmail.com", "lv2424@cumc.columbia.edu", "julia.wrobel@emory.edu", "lkoffma2@jhmi.edu")
+  Contact = c("julianw@umn.edu", "harezlak@iu.edu", "vzipunn1@jhu.edu", "lv2424@cumc.columbia.edu", "julia.wrobel@emory.edu", "lkoffma2@jhmi.edu")
 )
 # kable(data, format = "html", table.attr="class='table table-striped'")
 kable(data)
