@@ -20,3 +20,44 @@ data <- data.frame(
 # kable(data, format = "html", table.attr="class='table table-striped'")
 kable(data)
 ```
+
+## Mission 
+
+Fostering Innovation in Digital Health Technologies (DHT) through Collaboration, Methodological Excellence, and Inclusive Community Building
+
+1.	Promote Cutting-Edge Methods and Research
+
++ Encourage the development, dissemination, and application of advanced statistical and data science methods for DHT data—encompassing wearable devices, mobile apps, and related technologies.
+
++ Sponsor conference sessions, short courses, and workshops at annual meetings (e.g., JSM) focused on emerging topics in mobile and wearableweqrable data science.
+
+2.	Build Community and Mentorship
++ Provide networking forums—through social media groups, webinars, and in-person events—where statisticians, data scientists, and other stakeholders connect and collaborate.
+
++ Establish or co-sponsor travel grants, student paper competitions, and other awards to recognize and support innovative research.
+
++ Coordinate mentoring programs and “pathways to promotion” strategies that link junior investigators with experienced researchers and industry leaders.
+
+3. Facilitate Knowledge Exchange and Best Practices
+
++ Offer regular training opportunities, short courses, and tutorials on statistical consulting for DHT research, covering topics from study design to data cleaning, harmonization, modeling, and real-time analyses.
+
++ Collaborate with other ASA sections and external organizations on cross-cutting issues—such as data standardization and open-source software—for more streamlined, reproducible research.
+
+4. Champion Real-World Impact and Sustainability
++ Work with academic, industry, and regulatory partners to translate wearable and mobile data insights into tangible outcomes and policy recommendations.
+
++ Identify and publicize funding opportunities from governmental agencies and non-profit organizations that support the development of new statistical methods tailored to DHT data.
++ Foster new cross-institution research groups that combine domain-specific expertise with methodological innovations to solve pressing challenges.
+
+By nurturing a vibrant, inclusive community of researchers committed to methodological rigor and cooperative data practices, the ASA Mobile and Wearable Data Science Interest Group aims to lead the transformation of digital health technologies into actionable knowledge.
+
+## Charter 
+
+```{=html}
+
+<a href="MWDS_Charter.pdf" download>Click to Download Charter</a>
+```
+
+
+

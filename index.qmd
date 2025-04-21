@@ -2,8 +2,9 @@
 title: ""
 ---
 
-## Welcome! 
-Welcome to the Mobile and Wearable Data Science ASA Interest Group! 
+## Welcome!
+
+Welcome to the Mobile and Wearable Data Science ASA Interest Group!
 
 ```{=html}
 <div style="text-align: left;">

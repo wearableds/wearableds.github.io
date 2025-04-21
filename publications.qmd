@@ -2,4 +2,29 @@
 title: "Publications"
 ---
 
-Recent publications 
+Recent articles and papers related to mobile and wearable data science: 
+
++ [Comparing Step Counting Algorithms for High-Resolution Wrist Accelerometry Data in NHANES 2011-2014](https://pubmed.ncbi.nlm.nih.gov/39589008/) (2025) by Koffman et. al.
+
+
+Let us know if you have a publication you would like to be featured! 
+
+```{=html}
+<a href="mailto:wearableds@gmail.com" class="contact-button">📩 Contact Us</a>
+
+<style>
+  .contact-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .contact-button:hover {
+    background-color: #0056b3;
+  }
+</style>
