@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Mobile and Wearable Data Science",
     "section": "",
-    "text": "Recent publications"
+    "text": "📩 Contact Us"
   },
   {
     "objectID": "events.html",
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Upcoming events…"
+    "text": "Happy Hour at JSM 2025\n\nAugust 5th, 2025, 5-630pm Nashville, TN\nLocation TBA"
   },
   {
     "objectID": "index.html",
@@ -21,36 +21,15 @@
     "text": "Welcome to the Mobile and Wearable Data Science ASA Interest Group!"
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Mobile and Wearable Data Science",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Welcome to the Mobile and Wearable Data Science ASA Interest Group!"
-  },
-  {
-    "objectID": "involvement.html",
-    "href": "involvement.html",
-    "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "* indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
-  },
-  {
-    "objectID": "involvement.html#join-our-mailing-list",
-    "href": "involvement.html#join-our-mailing-list",
-    "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "* indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
+    "text": "Recent articles and papers related to mobile and wearable data science:\n\nComparing Step Counting Algorithms for High-Resolution Wrist Accelerometry Data in NHANES 2011-2014 (2025) by Koffman et. al.\n\nLet us know if you have a publication you would like to be featured!\n📩 Contact Us"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices."
-  },
-  {
-    "objectID": "about.html#what-we-do",
-    "href": "about.html#what-we-do",
     "title": "About",
     "section": "",
     "text": "The ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices."
@@ -63,17 +42,38 @@
     "text": "Leadership\n\n\n\n\n\n\n\n\n\n\n\nName\nAffiliation\nRole\nContact\n\n\n\n\nJulian Wolfson\nUniversity of Minnesota\nChair\njulianw@umn.edu\n\n\nJaroslaw Harezlak\nIndiana University\nChair-Elect\nharezlak@iu.edu\n\n\nVadim Zipunnikov\nJohns Hopkins University\nProgram Chair\nvzipunn1@jhu.edu\n\n\nLinda Valeri\nColumbia University\nProgram Chair-Elect\nlv2424@cumc.columbia.edu\n\n\nJulia Wrobel\nEmory University\nSecretary\njulia.wrobel@emory.edu\n\n\nLily Koffman\nJohns Hopkins University\nCommunications Officer\nlkoffma2@jhmi.edu"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "📩 Contact Us"
+    "objectID": "about.html#mission",
+    "href": "about.html#mission",
+    "title": "About",
+    "section": "Mission",
+    "text": "Mission\nFostering Innovation in Digital Health Technologies (DHT) through Collaboration, Methodological Excellence, and Inclusive Community Building\n\nPromote Cutting-Edge Methods and Research\n\n\nEncourage the development, dissemination, and application of advanced statistical and data science methods for DHT data—encompassing wearable devices, mobile apps, and related technologies.\nSponsor conference sessions, short courses, and workshops at annual meetings (e.g., JSM) focused on emerging topics in mobile and wearableweqrable data science.\n\n\nBuild Community and Mentorship\n\n\nProvide networking forums—through social media groups, webinars, and in-person events—where statisticians, data scientists, and other stakeholders connect and collaborate.\nEstablish or co-sponsor travel grants, student paper competitions, and other awards to recognize and support innovative research.\nCoordinate mentoring programs and “pathways to promotion” strategies that link junior investigators with experienced researchers and industry leaders.\n\n\nFacilitate Knowledge Exchange and Best Practices\n\n\nOffer regular training opportunities, short courses, and tutorials on statistical consulting for DHT research, covering topics from study design to data cleaning, harmonization, modeling, and real-time analyses.\nCollaborate with other ASA sections and external organizations on cross-cutting issues—such as data standardization and open-source software—for more streamlined, reproducible research.\n\n\nChampion Real-World Impact and Sustainability\n\n\nWork with academic, industry, and regulatory partners to translate wearable and mobile data insights into tangible outcomes and policy recommendations.\nIdentify and publicize funding opportunities from governmental agencies and non-profit organizations that support the development of new statistical methods tailored to DHT data.\nFoster new cross-institution research groups that combine domain-specific expertise with methodological innovations to solve pressing challenges.\n\nBy nurturing a vibrant, inclusive community of researchers committed to methodological rigor and cooperative data practices, the ASA Mobile and Wearable Data Science Interest Group aims to lead the transformation of digital health technologies into actionable knowledge."
   },
   {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
+    "objectID": "about.html#charter",
+    "href": "about.html#charter",
+    "title": "About",
+    "section": "Charter",
+    "text": "Charter\n\nClick to Download Charter"
+  },
+  {
+    "objectID": "involvement.html",
+    "href": "involvement.html",
     "title": "Mobile and Wearable Data Science",
     "section": "",
-    "text": "📩 Contact Us"
+    "text": "Click here to join our ASA Interest Group"
+  },
+  {
+    "objectID": "involvement.html#join-our-mailing-list",
+    "href": "involvement.html#join-our-mailing-list",
+    "title": "Mobile and Wearable Data Science",
+    "section": "Join Our Mailing List",
+    "text": "Join Our Mailing List\n\n      \n  \n\n    \n        Subscribe\n            * indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
+  },
+  {
+    "objectID": "involvement.html#join-our-workspace-on-slack",
+    "href": "involvement.html#join-our-workspace-on-slack",
+    "title": "Mobile and Wearable Data Science",
+    "section": "Join Our Workspace on Slack",
+    "text": "Join Our Workspace on Slack\nClick here to join our workspace on Slack or join with the URL digitalhealth-ds.slack.com"
   }
 ]
