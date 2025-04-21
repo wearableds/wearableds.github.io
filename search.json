@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Mobile and Wearable Data Science",
     "section": "",
-    "text": "Recent articles and papers related to mobile and wearable data science:\n\nComparing Step Counting Algorithms for High-Resolution Wrist Accelerometry Data in NHANES 2011-2014 (2025) by Koffman et. al.\n\nLet us know if you have a publication you would like to be featured!\n📩 Contact Us"
+    "text": "📩 Contact Us"
   },
   {
     "objectID": "events.html",
@@ -21,50 +21,15 @@
     "text": "Welcome to the Mobile and Wearable Data Science ASA Interest Group!"
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Mobile and Wearable Data Science",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Welcome to the Mobile and Wearable Data Science ASA Interest Group!"
-  },
-  {
-    "objectID": "involvement.html",
-    "href": "involvement.html",
-    "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "Click here to join our ASA Interest Group"
-  },
-  {
-    "objectID": "involvement.html#join-the-asa-interest-group",
-    "href": "involvement.html#join-the-asa-interest-group",
-    "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "Click here to join our ASA Interest Group"
-  },
-  {
-    "objectID": "involvement.html#join-our-mailing-list",
-    "href": "involvement.html#join-our-mailing-list",
-    "title": "Mobile and Wearable Data Science",
-    "section": "Join Our Mailing List",
-    "text": "Join Our Mailing List\n\n      \n  \n\n    \n        Subscribe\n            * indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
-  },
-  {
-    "objectID": "involvement.html#join-our-workspace-on-slack",
-    "href": "involvement.html#join-our-workspace-on-slack",
-    "title": "Mobile and Wearable Data Science",
-    "section": "Join Our Workspace on Slack",
-    "text": "Join Our Workspace on Slack\nClick here to join our workspace on Slack or join with the URL digitalhealth-ds.slack.com"
+    "text": "Recent articles and papers related to mobile and wearable data science:\n\nComparing Step Counting Algorithms for High-Resolution Wrist Accelerometry Data in NHANES 2011-2014 (2025) by Koffman et. al.\n\nLet us know if you have a publication you would like to be featured!\n📩 Contact Us"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices."
-  },
-  {
-    "objectID": "about.html#what-we-do",
-    "href": "about.html#what-we-do",
     "title": "About",
     "section": "",
     "text": "The ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices."
@@ -91,17 +56,24 @@
     "text": "Charter\n\nClick to Download Charter"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "involvement.html",
+    "href": "involvement.html",
     "title": "Mobile and Wearable Data Science",
     "section": "",
-    "text": "📩 Contact Us"
+    "text": "Click here to join our ASA Interest Group"
   },
   {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
+    "objectID": "involvement.html#join-our-mailing-list",
+    "href": "involvement.html#join-our-mailing-list",
     "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "📩 Contact Us"
+    "section": "Join Our Mailing List",
+    "text": "Join Our Mailing List\n\n      \n  \n\n    \n        Subscribe\n            * indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
+  },
+  {
+    "objectID": "involvement.html#join-our-workspace-on-slack",
+    "href": "involvement.html#join-our-workspace-on-slack",
+    "title": "Mobile and Wearable Data Science",
+    "section": "Join Our Workspace on Slack",
+    "text": "Join Our Workspace on Slack\nClick here to join our workspace on Slack or join with the URL digitalhealth-ds.slack.com"
   }
 ]
