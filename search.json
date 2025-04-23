@@ -58,20 +58,34 @@
   {
     "objectID": "involvement.html",
     "href": "involvement.html",
+    "title": "Involvement",
+    "section": "",
+    "text": "Click here to join our ASA Interest Group"
+  },
+  {
+    "objectID": "involvement.html#join-our-workspace-on-slack",
+    "href": "involvement.html#join-our-workspace-on-slack",
+    "title": "Involvement",
+    "section": "Join Our Workspace on Slack",
+    "text": "Join Our Workspace on Slack\nClick here to join our workspace on Slack or join with the URL digitalhealth-ds.slack.com"
+  },
+  {
+    "objectID": "involvement_archive.html",
+    "href": "involvement_archive.html",
     "title": "Mobile and Wearable Data Science",
     "section": "",
     "text": "Click here to join our ASA Interest Group"
   },
   {
-    "objectID": "involvement.html#join-our-mailing-list",
-    "href": "involvement.html#join-our-mailing-list",
+    "objectID": "involvement_archive.html#join-our-mailing-list",
+    "href": "involvement_archive.html#join-our-mailing-list",
     "title": "Mobile and Wearable Data Science",
     "section": "Join Our Mailing List",
     "text": "Join Our Mailing List\n\n      \n  \n\n    \n        Subscribe\n            * indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
   },
   {
-    "objectID": "involvement.html#join-our-workspace-on-slack",
-    "href": "involvement.html#join-our-workspace-on-slack",
+    "objectID": "involvement_archive.html#join-our-workspace-on-slack",
+    "href": "involvement_archive.html#join-our-workspace-on-slack",
     "title": "Mobile and Wearable Data Science",
     "section": "Join Our Workspace on Slack",
     "text": "Join Our Workspace on Slack\nClick here to join our workspace on Slack or join with the URL digitalhealth-ds.slack.com"
