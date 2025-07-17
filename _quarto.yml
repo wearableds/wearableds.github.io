@@ -7,7 +7,7 @@ website:
   favicon: images/favicon.ico
   site-url: "https://wearableds.github.io"
   navbar:
-    logo: images/logo.png
+    logo: images/interest_group_logo.jpg
     left:
       - href: index.qmd
         text: Home
