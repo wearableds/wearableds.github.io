@@ -53,21 +53,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "The ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices."
-  },
-  {
-    "objectID": "about.html#what-we-do",
-    "href": "about.html#what-we-do",
-    "title": "About",
-    "section": "",
-    "text": "The ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices."
+    "text": "Name\nAffiliation\nRole\nContact\n\n\n\n\nJulian Wolfson\nUniversity of Minnesota\nChair\njulianw@umn.edu\n\n\nJaroslaw Harezlak\nIndiana University\nChair-Elect\nharezlak@iu.edu\n\n\nVadim Zipunnikov\nJohns Hopkins University\nProgram Chair\nvzipunn1@jhu.edu\n\n\nLinda Valeri\nColumbia University\nProgram Chair-Elect\nlv2424@cumc.columbia.edu\n\n\nJulia Wrobel\nEmory University\nSecretary\njulia.wrobel@emory.edu\n\n\nLily Koffman\nJohns Hopkins University\nCommunications Officer\nlkoffma2@jhmi.edu"
   },
   {
     "objectID": "about.html#leadership",
     "href": "about.html#leadership",
     "title": "About",
-    "section": "Leadership",
-    "text": "Leadership\n\n\n\n\n\n\n\n\n\n\n\nName\nAffiliation\nRole\nContact\n\n\n\n\nJulian Wolfson\nUniversity of Minnesota\nChair\njulianw@umn.edu\n\n\nJaroslaw Harezlak\nIndiana University\nChair-Elect\nharezlak@iu.edu\n\n\nVadim Zipunnikov\nJohns Hopkins University\nProgram Chair\nvzipunn1@jhu.edu\n\n\nLinda Valeri\nColumbia University\nProgram Chair-Elect\nlv2424@cumc.columbia.edu\n\n\nJulia Wrobel\nEmory University\nSecretary\njulia.wrobel@emory.edu\n\n\nLily Koffman\nJohns Hopkins University\nCommunications Officer\nlkoffma2@jhmi.edu"
+    "section": "",
+    "text": "Name\nAffiliation\nRole\nContact\n\n\n\n\nJulian Wolfson\nUniversity of Minnesota\nChair\njulianw@umn.edu\n\n\nJaroslaw Harezlak\nIndiana University\nChair-Elect\nharezlak@iu.edu\n\n\nVadim Zipunnikov\nJohns Hopkins University\nProgram Chair\nvzipunn1@jhu.edu\n\n\nLinda Valeri\nColumbia University\nProgram Chair-Elect\nlv2424@cumc.columbia.edu\n\n\nJulia Wrobel\nEmory University\nSecretary\njulia.wrobel@emory.edu\n\n\nLily Koffman\nJohns Hopkins University\nCommunications Officer\nlkoffma2@jhmi.edu"
   },
   {
     "objectID": "about.html#mission",
@@ -84,18 +77,18 @@
     "text": "Charter\n\nClick to Download Charter"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "Welcome to the Mobile and Wearable Data Science ASA Interest Group!"
-  },
-  {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "Welcome to the Mobile and Wearable Data Science ASA Interest Group!"
+    "section": "Welcome!",
+    "text": "Welcome!\nThe ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Mobile and Wearable Data Science",
+    "section": "News",
+    "text": "News\n\nFirst Business Meeting\nJoin us to discuss the group’s goals, structure, and upcoming initiatives. Your input will be invaluable as we shape the future of this interest group.\nDate & Time: August 5, 2025, at 1:00 PM CDT Location: H-Mockingbird 2 @ Omni Nashville Hotel\n\n\nInformal Social Hour\nWe’re also planning a relaxed social gathering at JSM to connect and network. Stay tuned for more details!"
   },
   {
     "objectID": "events.html",
