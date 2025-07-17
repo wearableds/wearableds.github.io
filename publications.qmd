@@ -2,10 +2,11 @@
 title: "Publications"
 ---
 
-Recent articles and papers related to mobile and wearable data science: 
+Recent articles and papers related to mobile and wearable data science co-authored by interest group members: 
 
 + [Comparing Step Counting Algorithms for High-Resolution Wrist Accelerometry Data in NHANES 2011-2014](https://pubmed.ncbi.nlm.nih.gov/39589008/) (2025) by Koffman et. al.
-
++ [A Flexible Framework for Synthesizing Categorical Sequences with Application to Human Activity Patterns](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2450461) (2025) by Huang et al.
++ [Adjacency Matrix Decomposition Clustering for Human Activity Data](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2506196) (2025) by Barnard et al.
 
 Let us know if you have a publication you would like to be featured! 
 
