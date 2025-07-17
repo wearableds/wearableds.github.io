@@ -2,11 +2,9 @@
 title: ""
 ---
 
-```{=html}
-<div style="text-align: left;">
-  <img src="images/interest_group_logo.jpg" alt="Site Logo" width="300">
-</div>
-```
+::: {.center}
+![MWDS Logo](images/interest_group_logo.jpg){width="300"}
+:::
 
 ## Welcome!
 
