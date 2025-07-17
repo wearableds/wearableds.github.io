@@ -2,12 +2,25 @@
 title: ""
 ---
 
-## Welcome!
-
-Welcome to the Mobile and Wearable Data Science ASA Interest Group!
-
 ```{=html}
 <div style="text-align: left;">
-  <img src="images/logo.png" alt="Site Logo" width="200">
+  <img src="images/interest_group_logo.png" alt="Site Logo" width="300">
 </div>
 ```
+
+## Welcome!
+
+The ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices. 
+
+## News
+
+### First Business Meeting
+
+Join us to discuss the group's goals, structure, and upcoming initiatives. Your input will be invaluable as we shape the future of this interest group.
+
+**Date & Time:** August 5, 2025, at 1:00 PM CDT
+**Location:** H-Mockingbird 2 @ Omni Nashville Hotel
+
+### Informal Social Hour
+
+We're also planning a relaxed social gathering at JSM to connect and network. Stay tuned for more details!
