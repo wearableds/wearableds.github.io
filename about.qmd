@@ -2,10 +2,6 @@
 title: "About"
 ---
 
-## What we do 
-
-The ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices. 
-
 ## Leadership 
 
 ```{r}
