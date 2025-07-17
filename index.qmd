@@ -4,7 +4,7 @@ title: ""
 
 ```{=html}
 <div style="text-align: left;">
-  <img src="images/interest_group_logo.png" alt="Site Logo" width="300">
+  <img src="images/interest_group_logo.jpg" alt="Site Logo" width="300">
 </div>
 ```
 
