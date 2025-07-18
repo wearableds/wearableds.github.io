@@ -3,7 +3,7 @@ title: ""
 ---
 
 ::: {.center}
-!(images/interest_group_logo.jpg){width="300"}
+![](images/interest_group_logo.jpg){width="300"}
 :::
 
 ## Welcome!
