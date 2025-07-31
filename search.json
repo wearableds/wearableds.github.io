@@ -44,9 +44,16 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Publications & Presentations",
     "section": "",
-    "text": "Recent articles and papers related to mobile and wearable data science co-authored by interest group members:\n\nComparing Step Counting Algorithms for High-Resolution Wrist Accelerometry Data in NHANES 2011-2014 (2025) by Koffman et. al.\nA Flexible Framework for Synthesizing Categorical Sequences with Application to Human Activity Patterns (2025) by Huang et al.\nAdjacency Matrix Decomposition Clustering for Human Activity Data (2025) by Barnard et al.\n\nLet us know if you have a publication you would like to be featured!\n📩 Contact Us"
+    "text": "Recent articles and papers related to mobile and wearable data science co-authored by interest group members:\n\nComparing Step Counting Algorithms for High-Resolution Wrist Accelerometry Data in NHANES 2011-2014 (2025) by Koffman et. al.\nA Flexible Framework for Synthesizing Categorical Sequences with Application to Human Activity Patterns (2025) by Huang et al.\nAdjacency Matrix Decomposition Clustering for Human Activity Data (2025) by Barnard et al.\n\nLet us know if you have a publication you would like to be featured!"
+  },
+  {
+    "objectID": "publications.html#jsm-2025",
+    "href": "publications.html#jsm-2025",
+    "title": "Publications & Presentations",
+    "section": "JSM 2025",
+    "text": "JSM 2025\nSunday, August 3, 2025\n\n2:00 PM - 3:50 PM Functional Data Analysis in The Era of Digital Health (Invited Paper Session)\n2:00 PM - 3:50 PM Innovating Drug Development through Advanced Statistical and AI Methods for Digital Wearable Sensor Data (Topic-Contributed Paper)\n\nMonday, August 4, 2025\n\n8:30 AM - 10:20 AM AI for AD/ADRD Care: Essentials to Improve Learning Health Systems’ Management of Aging People (Invited Paper Session)\n8:30 AM - 10:20 AM Big Data Analysis with Applications to Biostatistics (Topic-Contributed Paper)\n10:30 AM - 12:20 PM Advancements in Utilizing Mobile Health Data for Mental Health Research (Invited Paper Session)\n\nTuesday, August 5, 2025\n\n10:30 AM - 12:20 PM Contributed Poster Presentations: Section on Statistical Computing (Contributed Posters)\n1:00 PM - 1:50 PM Mobile & Wearable Data Science Interest Group Business Meeting (ASA Meetings and Events)\n\n📩 Contact Us"
   },
   {
     "objectID": "about.html",
