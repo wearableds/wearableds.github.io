@@ -1,6 +1,8 @@
 ---
-title: "Publications"
+title: "Publications & Presentations"
 ---
+
+# Publications
 
 Recent articles and papers related to mobile and wearable data science co-authored by interest group members: 
 
@@ -9,6 +11,27 @@ Recent articles and papers related to mobile and wearable data science co-author
 + [Adjacency Matrix Decomposition Clustering for Human Activity Data](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2506196) (2025) by Barnard et al.
 
 Let us know if you have a publication you would like to be featured! 
+
+# Presentations
+
+## JSM 2025
+
+*Sunday, August 3, 2025*
+
+- 2:00 PM - 3:50 PM	Functional Data Analysis in The Era of Digital Health (Invited Paper Session)
+- 2:00 PM - 3:50 PM	Innovating Drug Development through Advanced Statistical and AI Methods for Digital Wearable Sensor Data	(Topic-Contributed Paper)
+
+*Monday, August 4, 2025*
+
+- 8:30 AM - 10:20 AM	AI for AD/ADRD Care: Essentials to Improve Learning Health Systems’ Management of Aging People (Invited Paper Session)
+- 8:30 AM - 10:20 AM	Big Data Analysis with Applications to Biostatistics (Topic-Contributed Paper)
+- 10:30 AM - 12:20 PM	Advancements in Utilizing Mobile Health Data for Mental Health Research (Invited Paper Session)
+
+*Tuesday, August 5, 2025*
+
+- 10:30 AM - 12:20 PM	Contributed Poster Presentations: Section on Statistical Computing (Contributed Posters)
+- 1:00 PM - 1:50 PM		Mobile & Wearable Data Science Interest Group Business Meeting (ASA Meetings and Events)
+
 
 ```{=html}
 <a href="mailto:wearableds@gmail.com" class="contact-button">📩 Contact Us</a>
