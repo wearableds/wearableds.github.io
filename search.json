@@ -1,61 +1,5 @@
 [
   {
-    "objectID": "involvement.html",
-    "href": "involvement.html",
-    "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "Click here to join our ASA Interest Group"
-  },
-  {
-    "objectID": "involvement.html#join-the-asa-interest-group",
-    "href": "involvement.html#join-the-asa-interest-group",
-    "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "Click here to join our ASA Interest Group"
-  },
-  {
-    "objectID": "involvement.html#join-our-mailing-list",
-    "href": "involvement.html#join-our-mailing-list",
-    "title": "Mobile and Wearable Data Science",
-    "section": "Join Our Mailing List",
-    "text": "Join Our Mailing List\n\n      \n  \n\n    \n        Subscribe\n            * indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
-  },
-  {
-    "objectID": "involvement.html#join-our-workspace-on-slack",
-    "href": "involvement.html#join-our-workspace-on-slack",
-    "title": "Mobile and Wearable Data Science",
-    "section": "Join Our Workspace on Slack",
-    "text": "Join Our Workspace on Slack\nClick here to join our workspace on Slack or join with the URL digitalhealth-ds.slack.com"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "📩 Contact Us"
-  },
-  {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
-    "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "📩 Contact Us"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications & Presentations",
-    "section": "",
-    "text": "Recent articles and papers related to mobile and wearable data science co-authored by interest group members:\n\nComparing Step Counting Algorithms for High-Resolution Wrist Accelerometry Data in NHANES 2011-2014 (2025) by Koffman et. al.\nA Flexible Framework for Synthesizing Categorical Sequences with Application to Human Activity Patterns (2025) by Huang et al.\nAdjacency Matrix Decomposition Clustering for Human Activity Data (2025) by Barnard et al.\n\nLet us know if you have a publication you would like to be featured!"
-  },
-  {
-    "objectID": "publications.html#jsm-2025",
-    "href": "publications.html#jsm-2025",
-    "title": "Publications & Presentations",
-    "section": "JSM 2025",
-    "text": "JSM 2025\nJSM 2025 in Nashville will features several sessions that may be of interest to MWDS members:\nSunday, August 3, 2025\n\n2:00 PM - 3:50 PM Functional Data Analysis in The Era of Digital Health (Invited Paper Session)\n2:00 PM - 3:50 PM Innovating Drug Development through Advanced Statistical and AI Methods for Digital Wearable Sensor Data (Topic-Contributed Paper)\n\nMonday, August 4, 2025\n\n8:30 AM - 10:20 AM AI for AD/ADRD Care: Essentials to Improve Learning Health Systems’ Management of Aging People (Invited Paper Session)\n8:30 AM - 10:20 AM Big Data Analysis with Applications to Biostatistics (Topic-Contributed Paper)\n10:30 AM - 12:20 PM Advancements in Utilizing Mobile Health Data for Mental Health Research (Invited Paper Session)\n\nTuesday, August 5, 2025\n\n10:30 AM - 12:20 PM Contributed Poster Presentations: Section on Statistical Computing (Contributed Posters)\n1:00 PM - 1:50 PM Mobile & Wearable Data Science Interest Group Business Meeting (ASA Meetings and Events)\n\n📩 Contact Us"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -84,6 +28,34 @@
     "text": "Charter\n\nClick to Download Charter"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "Recent articles and papers related to mobile and wearable data science co-authored by interest group members:\n\nComparing Step Counting Algorithms for High-Resolution Wrist Accelerometry Data in NHANES 2011-2014 (2025) by Koffman et. al.\nA Flexible Framework for Synthesizing Categorical Sequences with Application to Human Activity Patterns (2025) by Huang et al.\nAdjacency Matrix Decomposition Clustering for Human Activity Data (2025) by Barnard et al.\n\nLet us know if you have a publication you would like to be featured!"
+  },
+  {
+    "objectID": "publications.html#jsm-2025",
+    "href": "publications.html#jsm-2025",
+    "title": "Publications & Presentations",
+    "section": "JSM 2025",
+    "text": "JSM 2025\nJSM 2025 in Nashville will features several sessions that may be of interest to MWDS members:\nSunday, August 3, 2025\n\n2:00 PM - 3:50 PM Functional Data Analysis in The Era of Digital Health (Invited Paper Session)\n2:00 PM - 3:50 PM Innovating Drug Development through Advanced Statistical and AI Methods for Digital Wearable Sensor Data (Topic-Contributed Paper)\n\nMonday, August 4, 2025\n\n8:30 AM - 10:20 AM AI for AD/ADRD Care: Essentials to Improve Learning Health Systems’ Management of Aging People (Invited Paper Session)\n8:30 AM - 10:20 AM Big Data Analysis with Applications to Biostatistics (Topic-Contributed Paper)\n10:30 AM - 12:20 PM Advancements in Utilizing Mobile Health Data for Mental Health Research (Invited Paper Session)\n\nTuesday, August 5, 2025\n\n10:30 AM - 12:20 PM Contributed Poster Presentations: Section on Statistical Computing (Contributed Posters)\n1:00 PM - 1:50 PM Mobile & Wearable Data Science Interest Group Business Meeting (ASA Meetings and Events)\n\n📩 Contact Us"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Mobile and Wearable Data Science",
+    "section": "",
+    "text": "📩 Contact Us"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Mobile and Wearable Data Science",
+    "section": "",
+    "text": "📩 Contact Us"
+  },
+  {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Mobile and Wearable Data Science",
@@ -103,5 +75,26 @@
     "title": "Events",
     "section": "",
     "text": "First Business Meeting at JSM 2025\n\nJoin us to discuss the group’s goals, structure, and upcoming initiatives. Your input will be invaluable as we shape the future of this interest group.\nAugust 5, 2025, at 1:00 PM CDT\nH-Mockingbird 2 @ Omni Nashville Hotel\n\nHappy Hour at JSM 2025\n\nAugust 5th, 2025, 5-630pm Nashville, TN\nLocation TBA"
+  },
+  {
+    "objectID": "involvement.html",
+    "href": "involvement.html",
+    "title": "Involvement",
+    "section": "",
+    "text": "Click here to join our ASA Interest Group"
+  },
+  {
+    "objectID": "involvement.html#join-the-asa-interest-group",
+    "href": "involvement.html#join-the-asa-interest-group",
+    "title": "Involvement",
+    "section": "",
+    "text": "Click here to join our ASA Interest Group"
+  },
+  {
+    "objectID": "involvement.html#join-our-workspace-on-slack",
+    "href": "involvement.html#join-our-workspace-on-slack",
+    "title": "Involvement",
+    "section": "Join Our Workspace on Slack",
+    "text": "Join Our Workspace on Slack\nClick here to join our workspace on Slack or join with the URL digitalhealth-ds.slack.com"
   }
 ]
