@@ -11,7 +11,7 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Happy Hour at JSM 2025\n\nAugust 5th, 2025, 5-630pm Nashville, TN\nLocation TBA"
+    "text": "Upcoming Events\n\nJSM 2026 Business Meeting and Social Hour\n\nBusiness Meeting: August 2, 2026 at 6:00PM, Location TBD\nInformal Social Hour: August 2, 2026 at 7:00PM, Location TBD\n\nJSM 2026 Shared Community Table\n\nCall for volunteers to staff table will be sent early July\n\n\nPast Events\n\nMeeting and Lightning Talks at ENAR 2026\n\nMarch 15, 2026 in Indianapolis, IN\nLighting talks presentation by 10 researchers\nEnergetic discussion afterwards\nAttended by over 30 members of the MWDS Interest group\n\nFirst Business Meeting at JSM 2025\n\nJoin us to discuss the group’s goals, structure, and upcoming initiatives. Your input will be invaluable as we shape the future of this interest group.\nAugust 5, 2025, at 1:00 PM CDT\nH-Mockingbird 2 @ Omni Nashville Hotel\n\nHappy Hour at JSM 2025\n\nAugust 5th, 2025, 5-630pm Nashville, TN\nLocation TBA"
   },
   {
     "objectID": "index.html",
@@ -23,9 +23,9 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Publications & Presentations",
     "section": "",
-    "text": "The Impact of Wearable Technologies in Health Research: Scoping Review (2022) by Huhn et. al. \nChallenges and recommendations for wearable devices in digital health: Data quality, interoperability, health equity, fairness (2022) by Canali et. al.\nWearable technologies for health research: Opportunities, limitations, and practical and conceptual considerations (2023) by Roos and Slavich\nAccelerometry data in health research: challenges and opportunities (2019) by Karas et. al. \nStatistical Packages and Algorithms for the Analysis of Continuous Glucose Monitoring Data: A Systematic Review (2024) by Olsen et. al.\nEcological Momentary Assessment: A Systematic Review of Validity Research (2022) by Stinson et. al. \nOrganizing and Analyzing the Activity Data in NHANES (2019) by Leroux et. al."
+    "text": "Recent articles and papers related to mobile and wearable data science co-authored by interest group members:\n\nComparing Step Counting Algorithms for High-Resolution Wrist Accelerometry Data in NHANES 2011-2014 (2025) by Koffman et. al.\nA Flexible Framework for Synthesizing Categorical Sequences with Application to Human Activity Patterns (2025) by Huang et al.\nAdjacency Matrix Decomposition Clustering for Human Activity Data (2025) by Barnard et al.\n\nLet us know if you have a publication you would like to be featured!"
   },
   {
     "objectID": "publications.html#recent-publications-related-to-mobile-and-wearable-data-science",
@@ -39,7 +39,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "The ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices."
+    "text": "Name\nAffiliation\nRole\nContact\n\n\n\n\nJaroslaw Harezlak\nIndiana University\nChair\nharezlak@iu.edu\n\n\nIrina Gaynanova\nUniversity of Michigan\nChair-Elect\nirinagn@umich.edu\n\n\nJulian Wolfson\nUniversity of Minnesota\nPast Chair\njulianw@umn.edu\n\n\nLinda Valeri\nColumbia University\nProgram Chair\nlv2424@cumc.columbia.edu\n\n\nWalter Dempsey\nUniversity of Michigan\nProgram Chair-Elect\nwdem@umich.edu\n\n\nVadim Zipunnikov\nJohns Hopkins University\nPast Program Chair\nvzipunn1@jhu.edu\n\n\nJulia Wrobel\nEmory University\nSecretary\njulia.wrobel@emory.edu\n\n\nLily Koffman\nUniversity of Virginia\nCommunications Officer\nsyn6ym@virginia.edu"
   },
   {
     "objectID": "about.html#leadership",
@@ -96,5 +96,26 @@
     "title": "Mobile and Wearable Data Science",
     "section": "Join Our Workspace on Slack",
     "text": "Join Our Workspace on Slack\nClick here to join our workspace on Slack or join with the URL digitalhealth-ds.slack.com"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Mobile and Wearable Data Science",
+    "section": "Welcome!",
+    "text": "Welcome!\nThe ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Mobile and Wearable Data Science",
+    "section": "News",
+    "text": "News\n\nJSM Meetings\nJoin us to discuss the group’s goals, structure, and upcoming initiatives. Your input will be invaluable as we shape the future of this interest group.\nDate & Time: August 2, 2026, at 6:00 PM, followed by informal social hour at 7:00 PM. Location TBA"
+  },
+  {
+    "objectID": "publications.html#jsm-2025",
+    "href": "publications.html#jsm-2025",
+    "title": "Publications & Presentations",
+    "section": "JSM 2025",
+    "text": "JSM 2025\nJSM 2025 in Nashville will features several sessions that may be of interest to MWDS members:\nSunday, August 3, 2025\n\n2:00 PM - 3:50 PM Functional Data Analysis in The Era of Digital Health (Invited Paper Session)\n2:00 PM - 3:50 PM Innovating Drug Development through Advanced Statistical and AI Methods for Digital Wearable Sensor Data (Topic-Contributed Paper)\n\nMonday, August 4, 2025\n\n8:30 AM - 10:20 AM AI for AD/ADRD Care: Essentials to Improve Learning Health Systems’ Management of Aging People (Invited Paper Session)\n8:30 AM - 10:20 AM Big Data Analysis with Applications to Biostatistics (Topic-Contributed Paper)\n10:30 AM - 12:20 PM Advancements in Utilizing Mobile Health Data for Mental Health Research (Invited Paper Session)\n\nTuesday, August 5, 2025\n\n10:30 AM - 12:20 PM Contributed Poster Presentations: Section on Statistical Computing (Contributed Posters)\n1:00 PM - 1:50 PM Mobile & Wearable Data Science Interest Group Business Meeting (ASA Meetings and Events)\n\n📩 Contact Us"
   }
 ]

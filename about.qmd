@@ -8,14 +8,16 @@ title: "About"
 #| echo: false
 library(knitr)
 data <- data.frame(
-  Name = c("Julian Wolfson", "Jaroslaw Harezlak", "Vadim Zipunnikov", "Linda Valeri", "Julia Wrobel", "Lily Koffman"),
-  Affiliation = c("University of Minnesota", "Indiana University", "Johns Hopkins University", "Columbia University", "Emory University", "Johns Hopkins University"),
-  Role = c("Chair", "Chair-Elect", "Program Chair", "Program Chair-Elect", "Secretary", "Communications Officer"),
-  Contact = c("julianw@umn.edu", "harezlak@iu.edu", "vzipunn1@jhu.edu", "lv2424@cumc.columbia.edu", "julia.wrobel@emory.edu", "lkoffma2@jhmi.edu")
+  Name = c("Jaroslaw Harezlak", "Irina Gaynanova", "Julian Wolfson", "Linda Valeri", "Walter Dempsey", "Vadim Zipunnikov", "Julia Wrobel", "Lily Koffman"),
+  Affiliation = c("Indiana University", "University of Michigan", "University of Minnesota", "Columbia University", "University of Michigan", "Johns Hopkins University", "Emory University", "University of Virginia"),
+  Role = c("Chair", "Chair-Elect", "Past Chair", "Program Chair", "Program Chair-Elect", "Past Program Chair", "Secretary", "Communications Officer"),
+  Contact = c("harezlak@iu.edu", "irinagn@umich.edu", "julianw@umn.edu", "lv2424@cumc.columbia.edu", "wdem@umich.edu", "vzipunn1@jhu.edu", "julia.wrobel@emory.edu", "syn6ym@virginia.edu")
 )
 # kable(data, format = "html", table.attr="class='table table-striped'")
 kable(data)
 ```
+
+
 
 ## Mission 
 

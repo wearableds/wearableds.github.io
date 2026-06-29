@@ -19,8 +19,7 @@ website:
         text: Publications
       - href: involvement.qmd
         text: Get Involved
-      - href: contact.qmd
-        text: Contact
+
   page-footer:
     center: "© 2025 Mobile and Wearable Data Science"
 
