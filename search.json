@@ -1,17 +1,73 @@
 [
   {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Mobile and Wearable Data Science",
+    "section": "Welcome!",
+    "text": "Welcome!\nThe ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Mobile and Wearable Data Science",
+    "section": "News",
+    "text": "News\n\nJSM Meetings\nJoin us to discuss the group’s goals, structure, and upcoming initiatives. Your input will be invaluable as we shape the future of this interest group.\nDate & Time: August 2, 2026, at 6:00 PM, followed by informal social hour at 7:00 PM. Location TBA"
+  },
+  {
+    "objectID": "involvement.html",
+    "href": "involvement.html",
+    "title": "Involvement",
+    "section": "",
+    "text": "Click here to join our ASA Interest Group"
+  },
+  {
+    "objectID": "involvement.html#join-the-asa-interest-group",
+    "href": "involvement.html#join-the-asa-interest-group",
+    "title": "Involvement",
+    "section": "",
+    "text": "Click here to join our ASA Interest Group"
+  },
+  {
+    "objectID": "involvement.html#join-our-workspace-on-slack",
+    "href": "involvement.html#join-our-workspace-on-slack",
+    "title": "Involvement",
+    "section": "Join Our Workspace on Slack",
+    "text": "Join Our Workspace on Slack\nClick here to join our workspace on Slack or join with the URL digitalhealth-ds.slack.com"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Mobile and Wearable Data Science",
+    "section": "",
+    "text": "📩 Contact Us"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Mobile and Wearable Data Science",
+    "section": "",
+    "text": "📩 Contact Us"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Upcoming Events\n\nJSM 2026 Business Meeting and Social Hour\n\nBusiness Meeting: August 2, 2026 at 6:00PM, Location TBD\nInformal Social Hour: August 2, 2026 at 7:00PM, Location TBD\n\nJSM 2026 Shared Community Table\n\nCall for volunteers to staff table will be sent early July\n\n\nPast Events\n\nMeeting and Lightning Talks at ENAR 2026\n\nMarch 15, 2026 in Indianapolis, IN\nLighting talks presentation by 10 researchers\nEnergetic discussion afterwards\nAttended by over 30 members of the MWDS Interest group\n\nFirst Business Meeting at JSM 2025\n\nJoin us to discuss the group’s goals, structure, and upcoming initiatives. Your input will be invaluable as we shape the future of this interest group.\nAugust 5, 2025, at 1:00 PM CDT\nH-Mockingbird 2 @ Omni Nashville Hotel\n\nHappy Hour at JSM 2025\n\nAugust 5th, 2025, 5-630pm Nashville, TN\nLocation TBA"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Name\nAffiliation\nRole\nContact\n\n\n\n\nJulian Wolfson\nUniversity of Minnesota\nChair\njulianw@umn.edu\n\n\nJaroslaw Harezlak\nIndiana University\nChair-Elect\nharezlak@iu.edu\n\n\nVadim Zipunnikov\nJohns Hopkins University\nProgram Chair\nvzipunn1@jhu.edu\n\n\nLinda Valeri\nColumbia University\nProgram Chair-Elect\nlv2424@cumc.columbia.edu\n\n\nJulia Wrobel\nEmory University\nSecretary\njulia.wrobel@emory.edu\n\n\nLily Koffman\nJohns Hopkins University\nCommunications Officer\nlkoffma2@jhmi.edu"
+    "text": "Name\nAffiliation\nRole\nContact\n\n\n\n\nJaroslaw Harezlak\nIndiana University\nChair\nharezlak@iu.edu\n\n\nIrina Gaynanova\nUniversity of Michigan\nChair-Elect\nirinagn@umich.edu\n\n\nJulian Wolfson\nUniversity of Minnesota\nPast Chair\njulianw@umn.edu\n\n\nLinda Valeri\nColumbia University\nProgram Chair\nlv2424@cumc.columbia.edu\n\n\nWalter Dempsey\nUniversity of Michigan\nProgram Chair-Elect\nwdem@umich.edu\n\n\nVadim Zipunnikov\nJohns Hopkins University\nPast Program Chair\nvzipunn1@jhu.edu\n\n\nJulia Wrobel\nEmory University\nSecretary\njulia.wrobel@emory.edu\n\n\nLily Koffman\nUniversity of Virginia\nCommunications Officer\nsyn6ym@virginia.edu"
   },
   {
     "objectID": "about.html#leadership",
     "href": "about.html#leadership",
     "title": "About",
     "section": "",
-    "text": "Name\nAffiliation\nRole\nContact\n\n\n\n\nJulian Wolfson\nUniversity of Minnesota\nChair\njulianw@umn.edu\n\n\nJaroslaw Harezlak\nIndiana University\nChair-Elect\nharezlak@iu.edu\n\n\nVadim Zipunnikov\nJohns Hopkins University\nProgram Chair\nvzipunn1@jhu.edu\n\n\nLinda Valeri\nColumbia University\nProgram Chair-Elect\nlv2424@cumc.columbia.edu\n\n\nJulia Wrobel\nEmory University\nSecretary\njulia.wrobel@emory.edu\n\n\nLily Koffman\nJohns Hopkins University\nCommunications Officer\nlkoffma2@jhmi.edu"
+    "text": "Name\nAffiliation\nRole\nContact\n\n\n\n\nJaroslaw Harezlak\nIndiana University\nChair\nharezlak@iu.edu\n\n\nIrina Gaynanova\nUniversity of Michigan\nChair-Elect\nirinagn@umich.edu\n\n\nJulian Wolfson\nUniversity of Minnesota\nPast Chair\njulianw@umn.edu\n\n\nLinda Valeri\nColumbia University\nProgram Chair\nlv2424@cumc.columbia.edu\n\n\nWalter Dempsey\nUniversity of Michigan\nProgram Chair-Elect\nwdem@umich.edu\n\n\nVadim Zipunnikov\nJohns Hopkins University\nPast Program Chair\nvzipunn1@jhu.edu\n\n\nJulia Wrobel\nEmory University\nSecretary\njulia.wrobel@emory.edu\n\n\nLily Koffman\nUniversity of Virginia\nCommunications Officer\nsyn6ym@virginia.edu"
   },
   {
     "objectID": "about.html#mission",
@@ -40,61 +96,5 @@
     "title": "Publications & Presentations",
     "section": "JSM 2025",
     "text": "JSM 2025\nJSM 2025 in Nashville will features several sessions that may be of interest to MWDS members:\nSunday, August 3, 2025\n\n2:00 PM - 3:50 PM Functional Data Analysis in The Era of Digital Health (Invited Paper Session)\n2:00 PM - 3:50 PM Innovating Drug Development through Advanced Statistical and AI Methods for Digital Wearable Sensor Data (Topic-Contributed Paper)\n\nMonday, August 4, 2025\n\n8:30 AM - 10:20 AM AI for AD/ADRD Care: Essentials to Improve Learning Health Systems’ Management of Aging People (Invited Paper Session)\n8:30 AM - 10:20 AM Big Data Analysis with Applications to Biostatistics (Topic-Contributed Paper)\n10:30 AM - 12:20 PM Advancements in Utilizing Mobile Health Data for Mental Health Research (Invited Paper Session)\n\nTuesday, August 5, 2025\n\n10:30 AM - 12:20 PM Contributed Poster Presentations: Section on Statistical Computing (Contributed Posters)\n1:00 PM - 1:50 PM Mobile & Wearable Data Science Interest Group Business Meeting (ASA Meetings and Events)\n\n📩 Contact Us"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "📩 Contact Us"
-  },
-  {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
-    "title": "Mobile and Wearable Data Science",
-    "section": "",
-    "text": "📩 Contact Us"
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Mobile and Wearable Data Science",
-    "section": "Welcome!",
-    "text": "Welcome!\nThe ASA Mobile and Wearable Data Science Interest Group aims to foster innovation in digital health technologies by promoting cutting-edge methodological research, building community and mentoring relationships, and facilitating knowledge exchange and best practices."
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Mobile and Wearable Data Science",
-    "section": "News",
-    "text": "News\n\nFirst Business Meeting\nJoin us to discuss the group’s goals, structure, and upcoming initiatives. Your input will be invaluable as we shape the future of this interest group.\nDate & Time: August 5, 2025, at 1:00 PM CDT\nLocation: H-Mockingbird 2 @ Omni Nashville Hotel\n\n\nInformal Social Hour\nWe’re also planning a relaxed social gathering at JSM to connect and network. Stay tuned for more details!"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "First Business Meeting at JSM 2025\n\nJoin us to discuss the group’s goals, structure, and upcoming initiatives. Your input will be invaluable as we shape the future of this interest group.\nAugust 5, 2025, at 1:00 PM CDT\nH-Mockingbird 2 @ Omni Nashville Hotel\n\nHappy Hour at JSM 2025\n\nAugust 5th, 2025, 5-630pm Nashville, TN\nLocation TBA"
-  },
-  {
-    "objectID": "involvement.html",
-    "href": "involvement.html",
-    "title": "Involvement",
-    "section": "",
-    "text": "Click here to join our ASA Interest Group"
-  },
-  {
-    "objectID": "involvement.html#join-the-asa-interest-group",
-    "href": "involvement.html#join-the-asa-interest-group",
-    "title": "Involvement",
-    "section": "",
-    "text": "Click here to join our ASA Interest Group"
-  },
-  {
-    "objectID": "involvement.html#join-our-workspace-on-slack",
-    "href": "involvement.html#join-our-workspace-on-slack",
-    "title": "Involvement",
-    "section": "Join Our Workspace on Slack",
-    "text": "Join Our Workspace on Slack\nClick here to join our workspace on Slack or join with the URL digitalhealth-ds.slack.com"
   }
 ]
