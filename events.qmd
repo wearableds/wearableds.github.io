@@ -12,6 +12,18 @@ title: "Events"
 + **JSM 2026 Shared Community Table** 
   + Call for volunteers to staff table will be sent early July 
 
++ **JSM 2026 Presentations** 
+  + Invited Paper Session: *Advancing the use of Digital Health Technologies in Drug Development*
+    + August 3, 2026 2:00-3:50PM 
+    + Room CC-204A Thomas M. Menino Convention & Exhibition Center
+    + Organizer: Vadim Zipunnikov
+    + Chair: John Muschelli 
+  + Topic-Contributed Paper Session: *Statistics, Data Science, and the Future of Wearable Digital Health Technologies*
+    + August 5, 2026 10:30AM-12:20PM
+    + Room CC-102A Thomas M. Menino Convention & Exhibition Center
+    + Organizer: Vadim Zipunnikov
+    + Chair: Julia Wrobel
+
 
 *Past Events* 
 
