@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wearableds.github.io/index.html</loc>
-    <lastmod>2026-07-14T02:39:14.695Z</lastmod>
-  </url>
-  <url>
     <loc>https://wearableds.github.io/involvement.html</loc>
-    <lastmod>2026-07-14T02:39:14.695Z</lastmod>
+    <lastmod>2026-07-30T22:36:50.961Z</lastmod>
   </url>
   <url>
     <loc>https://wearableds.github.io/contact.html</loc>
-    <lastmod>2026-07-14T02:39:14.689Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wearableds.github.io/events.html</loc>
-    <lastmod>2026-07-14T02:39:14.689Z</lastmod>
-  </url>
-  <url>
-    <loc>https://wearableds.github.io/about.html</loc>
-    <lastmod>2026-07-14T02:39:14.689Z</lastmod>
+    <lastmod>2026-07-30T22:36:50.955Z</lastmod>
   </url>
   <url>
     <loc>https://wearableds.github.io/publications.html</loc>
-    <lastmod>2026-07-14T02:39:14.695Z</lastmod>
+    <lastmod>2026-07-30T22:36:50.961Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wearableds.github.io/about.html</loc>
+    <lastmod>2026-07-30T22:36:50.955Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wearableds.github.io/events.html</loc>
+    <lastmod>2026-07-30T22:36:50.955Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wearableds.github.io/index.html</loc>
+    <lastmod>2026-07-30T22:36:50.961Z</lastmod>
   </url>
 </urlset>
